@@ -1,0 +1,18 @@
+.container {
+    width: 700px;
+    margin: 40px auto;
+    font-family: Arial;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    font-size: 18px;
+}
+
+.prediction {
+    margin-top: 15px;
+    background: #151515;
+    padding: 12px;
+    border-left: 4px solid #1976d2;
+}

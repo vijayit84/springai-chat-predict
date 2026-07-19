@@ -10,6 +10,12 @@ A full-stack application that predicts the next few words for a user’s text in
 - Supports local Ollama-based model inference
 - CORS configured for frontend-to-backend communication
 
+## Quick View
+
+Watch a short demo video here:
+
+- [Demo video](./springai-chat-predict/video/Spring-ai-chat-predict.mp4)
+
 ## Tech Stack
 
 - Backend: Java, Spring Boot, Spring Web MVC, Spring AI
